@@ -60,5 +60,4 @@ React의 useState를 활용한 데이터 관리
 
 
 * 실행 방법 - 터미널 명령어
-npm install
-npm start
+npm install 명령어 실행 후 npm start
